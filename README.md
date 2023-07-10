@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭I'm currently working as a Data and ETL Support Specialist in NielsenIQ<br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&pause=1000&color=FFFFFF&width=435&lines=Welcome+to+my+GitHub+profile!+I+am+Gatellez97%2C+a+passionate+Data+Analyst+and+technology+enthusiast.+Here+you+will+find+a+collection+of+my+projects%2C+showcasing+my+skills+and+experience+in+various+areas+of+Data.)](https://git.io/typing-svg)
+Welcome to my GitHub profile! I am Adrián, a passionate Data Analyst and technology enthusiast. Here you will find a collection of my projects, showcasing my skills and experience in various areas of Data.
 My background primarily lies in Data Analysis perform data quality checks and implement data validation processes to identify and
 resolve any issues or inconsistencies in the data. This helps ensure the accuracy and reliability of the data used
 for analysis.
