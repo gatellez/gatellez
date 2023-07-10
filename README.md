@@ -1,5 +1,18 @@
 # 💫 About Me:
-🔭I'm currently working as a Data and ETL Support Specialist in NielsenIQ<br> 
+🔭I'm currently working as a Data and ETL Support Specialist in NielsenIQ<br>
+
+Welcome to my GitHub profile! I am Gatellez97, a passionate Data Analyst and technology enthusiast. Here you will find a collection of my projects, showcasing my skills and experience in various areas of Data.
+
+My background primarily lies in Data Analysis perform data quality checks and implement data validation processes to identify and
+resolve any issues or inconsistencies in the data. This helps ensure the accuracy and reliability of the data used
+for analysis.
+During my career, I have gained experience in working with cross-functional teams and collaborating on projects from conception to deployment. I am comfortable with version control systems like Git and have a good understanding of software development methodologies such as Agile.
+
+Apart from my technical skills, I possess excellent problem-solving abilities and a keen eye for detail. I am constantly learning and exploring new technologies to stay up-to-date with the rapidly evolving industry.
+
+Feel free to explore my repositories and projects to get a glimpse of my work. If you have any questions, suggestions, or would like to collaborate, please don't hesitate to reach out to me. You can also find more information about my professional background on my LinkedIn profile: Gatellez97 LinkedIn.
+
+Thank you for visiting, and I look forward to connecting with you!
 
 
 ## 🌐 Socials:
